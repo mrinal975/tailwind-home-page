@@ -2,6 +2,9 @@ import { ReactTyped } from "react-typed";
 function Hero() {
   return (
     <div className="text-white">
+      <br />
+      <br />
+      <br />
       <div className="max-w-[800px] w-full h-screen mx-auto text-center flex flex-col max-w-[800px]]">
         <p className="text-[#00df9a] font-bold uppercase text-[10px] p-2">
           Growing with data analytics
