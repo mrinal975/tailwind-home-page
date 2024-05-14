@@ -8,7 +8,10 @@ function Navbar() {
   };
 
   return (
-    <div className="flex justify-between items-center h-24 p-4 max-w-[1240px] mx-auto text-white">
+    <div
+      className="flex bg-black justify-between items-center
+     h-24 p-4 max-w-[1240px] mx-auto text-white"
+    >
       <h1 className="w-full text-3xl font-bold text-[#00df9a] uppercase">
         react.
       </h1>

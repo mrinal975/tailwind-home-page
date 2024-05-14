@@ -1,7 +1,7 @@
 import { ReactTyped } from "react-typed";
 function Hero() {
   return (
-    <div className="text-white">
+    <div className="text-white bg-black">
       <br />
       <br />
       <br />
