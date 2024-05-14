@@ -3,13 +3,13 @@ import laptop from "../assets/laptop.jpg";
 function Analytics() {
   return (
     <div className="max-w-[1240px] mx-auto p-4">
-      <div className="flex">
-        <img src={laptop} alt="analytics" className="w-[50%]" />
+      <div className="md:flex items-center justify-center">
+        <img src={laptop} alt="analytics" className="w-[500px] mx-auto" />
         <div className=" p-4 ">
           <p className="md:text-[13px] uppercase text-[#00df9a] text-[12px] font-bold">
             data analytics dashboard
           </p>
-          <h1 className="md:text-xl text-lg py-2 font-bold">
+          <h1 className="md:text-xl  text-lg py-2 font-bold">
             Manage Data Analytics Centrally
           </h1>
           <p className="md:text-[12px] text-[11px]">
